@@ -1,0 +1,27 @@
+dies ist eine liste von sachen die mann kaufen KÖNNTE,
+
+ich werde noch die liste von sachen hinzufügen die mann mit "Punkten" kaufen kann,
+
+die liste darunter ist nur EINE VORLAGE UND BRAUCHT IDEN/"PULL-REQUESTES"/SACHEN DIE MANN LISTEN KÖNNTE!
+
+*und ja: ich kann coden ^^
+
+100-bits = ???
+
+200-bits = ???
+
+300-bits = ???
+
+400-bits = ???
+
+500-bits = ???
+
+600-bits = ???
+
+700-bits = ???
+
+800-bits = ???
+
+900-bits = ???
+
+1,000-bits = ???
